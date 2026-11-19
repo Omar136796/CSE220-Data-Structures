@@ -1,6 +1,6 @@
-# CSE220 (Spring 2024) – Data Structures (BRAC University)
+# CSE220 – Data Structures (BRAC University)
 
-Lab assignments from CSE220, BRAC University's data structures course,
+Lab assignments from CSE220 (Spring 2024), BRAC University's data structures course,
 implemented in Python. Covers arrays, linked lists, stacks, recursion,
 hash tables, and binary trees. All work was done in Google Colab, and
 each notebook includes its output.
